@@ -11,7 +11,7 @@ AWS S3 is a cloud object storage, composed of 'buckets' in which files are store
 
 ### Strategy
 1. Create a button for users whose authenticated role is ____, _____, or ______ and belong to a specific list of service providers.
-2. Create functionality for the button to pass on Organization Name (?) as query input to the established API endpoint (eg: 'Arlington Free Clinic, VA.xlsx')
+2. Create functionality for the button to pass on Organization Name (?) as query input (eg: 'Arlington Free Clinic, VA.xlsx') to the established API endpoint 
 3. Allow for download of the xlsx file on pressing of the button
 
 ### Environment
