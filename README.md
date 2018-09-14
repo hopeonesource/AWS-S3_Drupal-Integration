@@ -10,3 +10,6 @@ To build functionality within the Drupal framework to retrieve the appropriate c
 1. Create a button for users whose authenticated role is ___ and belong to a specific list of service providers.
 2. Create functionality for the button to pass on Organization Name (?) as query input to S3 (eg: 'Arlington Free Clinic, VA.xlsx')
 3. Allow for download of the xlsx file on pressing of the button
+
+### Environment
+* Any basic vanilla Drupal 8 environment is acceptable for development. 
