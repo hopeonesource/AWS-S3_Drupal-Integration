@@ -7,7 +7,7 @@ define processes to correctly retrieve check-in report
 To build functionality within the Drupal framework to retrieve the appropriate checkin report from AWS S3
 
 ### Strategy
-1. Create a button for users whose authenticated role is ___ and belong to a specific list of service providers.
+1. Create a button for users whose authenticated role is ____, _____, or ______ and belong to a specific list of service providers.
 2. Create functionality for the button to pass on Organization Name (?) as query input to S3 (eg: 'Arlington Free Clinic, VA.xlsx')
 3. Allow for download of the xlsx file on pressing of the button
 
